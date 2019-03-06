@@ -86,7 +86,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fa-github-alt
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/zyl1221/web2
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
